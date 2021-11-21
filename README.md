@@ -13,5 +13,5 @@
  $ python2 BLACK HAT.py
 
  
-selamat mencoba
+selamat mencoba maaf kalo gagal
 
