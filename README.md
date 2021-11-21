@@ -1,6 +1,6 @@
 # BLACK-HAT #
 
-<img src="https://kosred.com/a/mfwuaf.jpg"/>
+
 
 # PENGINSTALAN
  $ apt-get update<br>
